@@ -14,7 +14,9 @@
 }
 
 body {
-  background: var(--desaturated-blue);
+  background: url("./images/pattern-background-desktop.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .container {
